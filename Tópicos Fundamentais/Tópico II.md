@@ -4,9 +4,9 @@
 
 ![](C:\Users\sthev\OneDrive\Documentos\Lightshot\Screenshot_15.png)
 
-* **Utracked** - não conhece 
+* **Utracked** - não conhece/editado
 
-###   *Traked*
+####    Tracked
 
 * **Unmodified**- criou arquivo
 
